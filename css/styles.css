@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 /* =================================================================== 
- * Hudson Main Stylesheet
+ * Danish Main Stylesheet
  * Template Ver. 1.0.0
  * 04-03-2023
  * ------------------------------------------------------------------
@@ -3981,6 +3981,7 @@ td:last-child {
     margin        : 0;
     height: 300px;
     object-fit: cover;
+    width: 100%;
 }
 
 .folio-entries .entry__link::before {
